@@ -36,7 +36,8 @@ An end-to-end data analysis project focused on a Pizza Store's sales performance
 
 ### 2️⃣ Product Performance
 *A deep dive into Top and Bottom performing pizza categories and sizes.*
-<img src="https://github.com/[abeeradel872-igtm]/[Pizza-Sales-Analysis]/blob/main/IMG_5744.jpeg?raw=true" width="100%">
+<img width="828" height="467" alt="image" src="https://github.com/user-attachments/assets/b1de849d-b563-4aca-b638-29cd18007502" />
+
 
 ---
 
