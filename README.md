@@ -39,14 +39,7 @@ An end-to-end data analysis project focused on a Pizza Store's sales performance
 <img width="828" height="467" alt="image" src="https://github.com/user-attachments/assets/b1de849d-b563-4aca-b638-29cd18007502" />
 
 
----
-
-## 📁 Repository Structure
-* Pizza_Sales_Report.pbix: The main Power BI dashboard file.
-* SQL_Queries.sql: Contains all SQL scripts used for analysis.
-* Data/: The dataset used for the project.
-
 
 
 ---
-<p align="center">Made with ❤️ for Data Analysis</p>
+<p align="center">Made with ❤️ </p>
