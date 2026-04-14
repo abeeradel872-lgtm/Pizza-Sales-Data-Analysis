@@ -31,7 +31,8 @@ An end-to-end data analysis project focused on a Pizza Store's sales performance
 
 ### 1️⃣ Executive Overview
 *Analyzes overall sales, total orders, and daily trends.*
-https://github.com/abeeradel872-lgtm/Pizza-Sales-Data-Analysis/blob/main/overview.jpg?raw=true
+<img width="835" height="469" alt="image" src="https://github.com/user-attachments/assets/25bd1dcc-c71e-465f-acb5-e54ff01e3d94" />
+
 
 ### 2️⃣ Product Performance
 *A deep dive into Top and Bottom performing pizza categories and sizes.*
